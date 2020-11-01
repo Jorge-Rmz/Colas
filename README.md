@@ -1,6 +1,6 @@
 # Colas
 
-#### En este pequeño, escrito en lenguaje JAVA se realizó un programa que muestra las operaciones que se pueden hacer con la estructura de dato lineal: Cola.
+#### En este pequeño proyecto, escrito en lenguaje JAVA se realizó un programa que muestra las operaciones que se pueden hacer con la estructura de dato lineal: Cola.
 ##### La clase que contiene el método main se llama Colas, Al momento de ejecutarla no muestra la siguiente ventana.
 ![1](https://user-images.githubusercontent.com/71052252/97551375-87437300-1998-11eb-89be-4807e61fc808.png)
 
